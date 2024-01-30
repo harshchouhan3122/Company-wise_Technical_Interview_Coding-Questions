@@ -1,1 +1,1 @@
-# Technical_Interview_Question-Companywise-
+# Technical_Interview_Question-Companywise
